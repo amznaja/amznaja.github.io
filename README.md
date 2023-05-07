@@ -1,1 +1,0 @@
-# amznaja.github.io
